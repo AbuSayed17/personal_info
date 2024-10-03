@@ -3,6 +3,9 @@ class Assets {
   Assets._();
 
   static const String images1.BW = 'assets/images/1.BW.jpg';
-
+  static const String imagesAsPeri = 'assets/images/asPeri.jpg';
+  static const String imagesIiucLibraryC = 'assets/images/iiuc_libraryC.jpg';
+  static const String imagesSayedRes = 'assets/images/sayed_res.jpg';
+  static const String imagesSpd = 'assets/images/spd.png';
 
 }
